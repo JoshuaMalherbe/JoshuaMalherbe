@@ -8,6 +8,7 @@
 ## What am I working on...
 I have many many personal projects that are all at various stages of uncompletion like
 - my chess engine written in rust with a front end interface using Rust Bevy
+- Double pendulum sim in rust with Bevy as well
 - my ray tracing in one weekend project (one month and counting!) in Rust also
 - various university assignments
 - A robot for climbing
